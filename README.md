@@ -1,6 +1,7 @@
 # INTERTECHNE CONSULTORES S.A.
 
-### ACESSOS
+
+### SISTEMAS
 
 | TIPO | LINK |
 | ------------- | ------------- |
