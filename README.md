@@ -9,3 +9,4 @@
 | Portal do Conhecimento | https://portalconhecimento.intertechne.com.br |
 | Registro de Ponto | https://app2.pontomais.com.br |
 | Citrix Intertechne | https://netscaler.intertechne.com.br |
+| Agenda Corporativa | https://agendacorp.intertechne.com.br/agendacorporativaweb/ |
