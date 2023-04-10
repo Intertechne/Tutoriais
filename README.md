@@ -18,5 +18,5 @@
 ### RECURSOS HUMANOS
 
 | TIPO | LINK |
-|---------|--------|
+| ------------- | ------------- |
 | SAC RH | https://helpdesk.intertechne.com.br |
