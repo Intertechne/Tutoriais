@@ -14,3 +14,9 @@
 | Inter Cadastros | https://intercadastros.intertechne.com.br |
 | Inter Visgens | https://interviagens.intertechne.com.br |
 | Inter Currículos | https://intercurriculos.intertechne.com.br |
+
+### RECURSOS HUMANOS
+
+| TIPO | LINK |
+|---------|--------|
+| SAC RH | https://helpdesk.intertechne.com.br |
