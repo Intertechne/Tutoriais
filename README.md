@@ -4,5 +4,5 @@
 
 | FINALIZADADE  | ACESSO |
 | ------------- | ------------- |
-| Site  | https://intertechne.com.br  |
-| Content Cell  | Content Cell  |
+| Site  | https://www.intertechne.com.br  |
+| Intranet  | https://monoceros/intranet/default.asp  |
