@@ -1,8 +1,8 @@
 # INTERTECHNE CONSULTORES S.A.
 
-## Sites
+## ACESSOS:
 
-| FINALIDADE  | ACESSO |
+| NOME | LINK |
 | ------------- | ------------- |
 | Site Principal  | https://www.intertechne.com.br  |
 | Intranet  | https://intranet.intertechne.com.br  |
