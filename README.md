@@ -5,4 +5,4 @@
 | FINALIZADADE  | ACESSO |
 | ------------- | ------------- |
 | Site  | https://www.intertechne.com.br  |
-| Intranet  | https://monoceros/intranet/default.asp  |
+| Intranet  | https://intranet.intertechne.com.br  |
