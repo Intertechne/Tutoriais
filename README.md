@@ -2,7 +2,8 @@
 
 ## Sites
 
-| FINALIZADADE  | ACESSO |
+| FINALIDADE  | ACESSO |
 | ------------- | ------------- |
-| Site  | https://www.intertechne.com.br  |
+| Site Principal  | https://www.intertechne.com.br  |
 | Intranet  | https://intranet.intertechne.com.br  |
+| Portal do Conhecimento | https://portalconhecimento.intertechne.com.br |
